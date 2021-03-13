@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vasu chaurasiya
-- 👀 I’m interested in computer advancement
+- 👀 I’m interested in computer technologies
 - 🌱 I’m currently learning python , machine learning , ai , django.
 - 💞️ I’m looking to collaborate on ai/ml,deep learning, iot.
 - 📫 How to reach me iskon.chaurasiya512@gmail.com
